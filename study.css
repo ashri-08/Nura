@@ -1,0 +1,103 @@
+body {
+  background-color: #F2EDE1;
+  color: #140040;
+  font-family: Arial, sans-serif;
+}
+.title {
+  font-family: "Noto Serif Grantha", serif;
+}
+
+.hero {
+  background-color: #140040;
+  width: 100%;
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.hero .title {
+  color: #F2EDE1;
+  font-size: 40px;
+  margin: 5px;
+}
+
+.hero .slogan {
+  color: #F2EDE1;
+  font-size: 20px;
+  margin: 0px;
+}
+
+.navigation {
+  background-color: #F2EDE1;
+  padding: 15px;
+  text-align: center;
+  border-bottom: 2px solid #140040;
+  width: 80%;
+  margin: auto;
+}
+
+.nav-link {
+  color: #140040;
+  margin: 15px;
+  text-decoration: none;
+}
+
+.nav-link:hover {
+  color: #140040;
+}
+
+.main-content {
+  width: 80%;
+  margin: 30px auto;
+}
+
+.section {
+  background-color: white;
+  padding: 30px;
+  margin-bottom: 20px;
+  border-radius: 12px;
+}
+
+.section h2 {
+  color: #140040;
+}
+
+.section h3 {
+  color: #140040;
+}
+
+.options {
+  width: 80%;
+  margin: 30px auto;
+  display: flex;
+  gap: 20px;
+}
+
+.option {
+  background-color: white;
+  padding: 25px;
+  text-align: center;
+  flex: 1;
+  border-radius: 12px;
+}
+
+.option h3 {
+  color: #140040;
+}
+
+.button {
+  background-color: #140040;
+  color: #F2EDE1;
+  padding: 10px 20px;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 6px;
+}
+
+.button:hover {
+  background-color: #F2EDE1;
+  color: #140040;
+}
