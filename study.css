@@ -101,3 +101,53 @@ body {
   background-color: #F2EDE1;
   color: #140040;
 }
+.ai-container {
+    width: 850px;
+    margin: 50px auto;
+    padding: 30px;
+    background-color: white;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.ai-container h2 {
+    color: #140040;
+    font-size: 30px;
+}
+
+.ai-container p {
+    color: #51456B;
+}
+
+.ai-suggestions {
+    text-align: center;
+    margin: 30px 0;
+}
+
+.ai-suggestions .button {
+    margin: 5px;
+}
+
+.ai-chat {
+    margin-top: 35px;
+}
+
+.ai-chat input {
+    width: 70%;
+    padding: 12px;
+    border: 1px solid #140040;
+    border-radius: 8px;
+    font-size: 15px;
+}
+
+.ai-chat button {
+    padding: 12px 20px;
+    background-color: #140040;
+    color: white;
+    border: none;
+    border-radius: 8px;
+}
+
+.ai-chat button:hover {
+    background-color: #352064;
+}
