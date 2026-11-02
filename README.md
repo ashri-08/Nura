@@ -16,3 +16,5 @@ Built using: HTML and CSS.
 
  Project Files
  [View Raw README File](https://raw.githubusercontent.com/ashri-08/Nura/refs/heads/main/README.md)
+ [View Raw MAIN HTML File](https://raw.githubusercontent.com/ashri-08/Nura/refs/heads/main/study.html)
+ 
