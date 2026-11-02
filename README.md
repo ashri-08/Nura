@@ -13,3 +13,6 @@ Nura's goal is to guide students towards more effective, organised and
 confident learning through simple resources and an easy-to-navigate website.
 
 Built using: HTML and CSS.
+
+ Project Files
+ [View Raw README File](https://raw.githubusercontent.com/ashri-08/Nura/refs/heads/main/README.md)
